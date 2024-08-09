@@ -1,7 +1,7 @@
-package com.in_u_in.in_u_in.response.exception;
+package com.in_u_in.in_u_in.common.response.exception;
 
-import com.in_u_in.in_u_in.response.code.BaseErrorCode;
-import com.in_u_in.in_u_in.response.code.ErrorReasonDTO;
+import com.in_u_in.in_u_in.common.response.code.BaseErrorCode;
+import com.in_u_in.in_u_in.common.response.code.ErrorReasonDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

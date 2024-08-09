@@ -1,11 +1,11 @@
-package com.in_u_in.in_u_in.response;
+package com.in_u_in.in_u_in.common.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
-import com.in_u_in.in_u_in.response.code.BaseCode;
-import com.in_u_in.in_u_in.response.code.BaseErrorCode;
-import com.in_u_in.in_u_in.response.code.SuccessCode;
+import com.in_u_in.in_u_in.common.response.code.BaseCode;
+import com.in_u_in.in_u_in.common.response.code.SuccessCode;
+import com.in_u_in.in_u_in.common.response.code.BaseErrorCode;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
